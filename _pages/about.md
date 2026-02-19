@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+<h2><b>Welcome to Zhenhui’s Homepage!</b></h2>
+
+I am Zhenhui Ou, a second-year PhD student at Arizona State University (ASU). Previously, I received my Bachelor's degree in Automation at Fuzhou University (FZU) and Maynooth University (MU). I am very fortunately advised by and maintain closely connected with Prof. [Huan Liu](https://search.asu.edu/profile/255975), Prof. [Lingyao Li](https://www.lingyaoli.com/), Prof. [Wenlin Liu](https://wenxiliu.github.io/), [Dawei Li](https://david-li0406.github.io/) and [Zhen Tan](https://zhen-tan-dmml.github.io/).
 
 My work centers on **large-scale, domain-adapted LLMs** and **multimodal, tool-augmented agents** that ground reasoning in perception, simulation, and structured knowledge to deliver **reliable, verifiable decision support** for safety-critical, unstructured environments. I further translate these capabilities to **language-conditioned robotics**. Linking perception, whole-body control, and dexterous manipulation, humanoid/mobile platforms can execute LLM-generated plans with **closed-loop reliability**.
 
@@ -62,7 +64,7 @@ Lingyao Li, Dawei Li, **Zhenhui Ou**, Xiaoran Xu, Jingxiao Liu, Zihui Ma, Runlon
   - Worked on LLM-enhanced construction safety analytics by building a large-scale incidents–inspections–violations dataset, developing hybrid ML+LLM risk modeling with interpretable explanations, designing an LLM-as-a-Judge evaluation pipeline, and proposing an evidence-driven multi-agent framework for grounded safety reasoning and uncertainty-aware auditing. 
 - Fuzhou University, *2022.07 - 2024.05*.
   - Research Intern.
-  - Worked with Dr. [Wenlin Liu](https://wenxiliu.github.io/) and Dr. [Yutao Chen](https://dqxy.fzu.edu.cn/dqgcxyxin/info/1041/4136.htm) on safe reinforcement-learning-based autonomous robot navigation in dynamic, unknown environments, and on Simulink/Adams virtual prototyping for CPG-driven quadruped gait and motion control.
+  - Worked with Prof. [Wenlin Liu](https://wenxiliu.github.io/) and Prof. [Yutao Chen](https://dqxy.fzu.edu.cn/dqgcxyxin/info/1041/4136.htm) on safe reinforcement-learning-based autonomous robot navigation in dynamic, unknown environments, and on Simulink/Adams virtual prototyping for CPG-driven quadruped gait and motion control.
 
 # 💬 Service
 - Serve as a reviewer for CVPR 2024, CIKM 2025 and CRC 2026.
