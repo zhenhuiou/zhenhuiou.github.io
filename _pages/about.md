@@ -19,11 +19,11 @@ redirect_from:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My work centers on **large-scale, domain-adapted LLMs** and **multimodal, tool-augmented agents** that ground reasoning in perception, simulation, and structured knowledge to deliver **reliable, verifiable decision support** for safety-critical, unstructured environments. I further translate these capabilities to **language-conditioned robotics**. Linking perception, whole-body control, and dexterous manipulation, humanoid/mobile platforms can execute LLM-generated plans with **closed-loop reliability**.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='images/CIKM25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Building Safer Sites: A Large-Scale Multi-Level Dataset for Construction Safety Research](https://dl.acm.org/doi/pdf/10.1145/3746252.3761652)
@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/EMNLP25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LLMs as World Models: Data-Driven and Human-Centered Pre-Event Simulation for Disaster Impact Assessment](https://aclanthology.org/2025.emnlp-main.153.pdf)
@@ -52,7 +52,7 @@ Lingyao Li, Dawei Li, **Zhenhui Ou**, Xiaoran Xu, Jingxiao Liu, Zihui Ma, Runlon
 - *2021.05* First Prize Scholarship of MIEC (Top 1% students in FZU).
 
 # 📖 Educations
-- *2024.09 - Present*, Arizona State University, Ph.D. in Artificial Intelligence \& Robotics 
+- *2024.09 - Present*, Arizona State University, Ph.D. in Artificial Intelligence & Robotics 
 - *2020.09 - 2024.06*, Maynooth University, BS in Robotics and Intelligent Devices (**First-Class Honours**).
 - *2020.09 - 2024.06*, Fuzhou University, BE in Automation.
 
@@ -66,6 +66,6 @@ Lingyao Li, Dawei Li, **Zhenhui Ou**, Xiaoran Xu, Jingxiao Liu, Zihui Ma, Runlon
 
 # 💬 Service
 - Serve as a reviewer for CVPR 2024, CIKM 2025 and CRC 2026.
-- Teaching Assistant: FZU \& MU CS427 Autonomous Mobile Robotics, Fall 2023.
-- Teaching Assistant: FZU \& MU EE311 Control System Design, Spring 2023.
-- Teaching Assistant: FZU \& MU EE204 Analog Electronics, Fall 2022.
+- Teaching Assistant: FZU & MU CS427 Autonomous Mobile Robotics, Fall 2023.
+- Teaching Assistant: FZU & MU EE311 Control System Design, Spring 2023.
+- Teaching Assistant: FZU & MU EE204 Analog Electronics, Fall 2022.
