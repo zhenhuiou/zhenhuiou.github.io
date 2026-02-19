@@ -23,22 +23,28 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Building Safer Sites: A Large-Scale Multi-Level Dataset for Construction Safety Research](https://dl.acm.org/doi/pdf/10.1145/3746252.3761652)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Zhenhui Ou**, Dawei Li, Zhen Tan, Wenlin Li, Huan Liu, Siyuan Song.
+- This paper introduces CSDataset, a large-scale multi-level OSHA construction safety benchmark that links incidents–inspections–violations (2013–2022) with both structured attributes and narrative text to enable ML/LLM benchmarking and cross-level analyses such as injury severity prediction and inspection–incident causal insights 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LLMs as World Models: Data-Driven and Human-Centered Pre-Event Simulation for Disaster Impact Assessment](https://aclanthology.org/2025.emnlp-main.153.pdf)
+
+Lingyao Li, Dawei Li, **Zhenhui Ou**, Xiaoran Xu, Jingxiao Liu, Zihui Ma, Runlong Yu, Min Deng.
+- This paper proposes an LLM-as-world-model framework that fuses multimodal pre-event context to simulate human-perceived earthquake impacts at zip scales, achieving strong agreement with USGS “Did You Feel It?” reports and showing gains from RAG/ICL and visual inputs. 
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2026.o1* ASU University Graduate Fellowship. 
+- *2026.01* ASU University Graduate Fellowship.
 - *2025.11* ASU Graduate College Travel Award.
 - *2024.09* ASU Fulton Fellowship. ASU Ira A. Fulton Schools of Engineering PhD Fellowships.
 - *2023.12* Innovation Scholarship (One of the highest undergraduate awards).
@@ -46,16 +52,20 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.05* First Prize Scholarship of MIEC (Top 1% students in FZU).
 
 # 📖 Educations
-- *2024.09 - Present*, Arizona State University, Ph.D. in Artificial Intelligence & Robotics 
-- *2020.09 - 2024.06*, Maynooth University, BS in Robotics and Intelligent Devices.
+- *2024.09 - Present*, Arizona State University, Ph.D. in Artificial Intelligence \& Robotics 
+- *2020.09 - 2024.06*, Maynooth University, BS in Robotics and Intelligent Devices (**First-Class Honours**).
 - *2020.09 - 2024.06*, Fuzhou University, BE in Automation.
 
 # 💻 Experience
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- Arizona State University, *2024.09 - 2026.01*.
+  - Research Assistant.
+  - Worked on LLM-enhanced construction safety analytics by building a large-scale incidents–inspections–violations dataset, developing hybrid ML+LLM risk modeling with interpretable explanations, designing an LLM-as-a-Judge evaluation pipeline, and proposing an evidence-driven multi-agent framework for grounded safety reasoning and uncertainty-aware auditing. 
+- Fuzhou University, *2022.07 - 2024.05*.
+  - Research Intern.
+  - Worked with Dr. [Wenlin Liu](https://wenxiliu.github.io/) and Dr. [Yutao Chen](https://dqxy.fzu.edu.cn/dqgcxyxin/info/1041/4136.htm) on safe reinforcement-learning-based autonomous robot navigation in dynamic, unknown environments, and on Simulink/Adams virtual prototyping for CPG-driven quadruped gait and motion control.
 
 # 💬 Service
 - Serve as a reviewer for CVPR 2024, CIKM 2025 and CRC 2026.
-- Teaching Assistant: FZU & MU CS427 Autonomous Mobile Robotics, Fall 2023.
-- Teaching Assistant: FZU & MU EE311 Control System Design, Spring 2023.
-- Teaching Assistant: FZU & MU EE204 Analog Electronics, Fall 2022.
+- Teaching Assistant: FZU \& MU CS427 Autonomous Mobile Robotics, Fall 2023.
+- Teaching Assistant: FZU \& MU EE311 Control System Design, Spring 2023.
+- Teaching Assistant: FZU \& MU EE204 Analog Electronics, Fall 2022.
