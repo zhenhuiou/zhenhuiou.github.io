@@ -19,7 +19,7 @@ redirect_from:
 
 <h2><b>Welcome to Zhenhui’s Homepage!</b></h2>
 
-I am Zhenhui Ou, a second-year PhD student at Arizona State University (ASU). Previously, I received my Bachelor's degree in Automation at Fuzhou University (FZU) and Maynooth University (MU). I am very fortunately advised by and maintain closely connected with Prof. [Huan Liu](https://search.asu.edu/profile/255975), Prof. [Lingyao Li](https://www.lingyaoli.com/), Prof. [Wenlin Liu](https://wenxiliu.github.io/), [Dawei Li](https://david-li0406.github.io/) and [Zhen Tan](https://zhen-tan-dmml.github.io/).
+I am Zhenhui Ou, a second-year PhD student at [Arizona State University (ASU)](https://www.asu.edu/). Previously, I completed a dual-degree program between [Fuzhou University (FZU)](https://www.fzu.edu.cn/) and [Maynooth University (MU)](https://www.maynoothuniversity.ie/), earning Bachelor’s degrees in **Automation** and **Robotics and Intelligent Devices**. I am very fortunately advised by and maintain closely connected with [Prof. Huan Liu](https://search.asu.edu/profile/255975), [Prof.Lingyao Li](https://www.lingyaoli.com/), [Prof. Wenlin Liu](https://wenxiliu.github.io/), [Dawei Li](https://david-li0406.github.io/) and [Zhen Tan](https://zhen-tan-dmml.github.io/).
 
 My work centers on **large-scale, domain-adapted LLMs** and **multimodal, tool-augmented agents** that ground reasoning in perception, simulation, and structured knowledge to deliver **reliable, verifiable decision support** for safety-critical, unstructured environments. I further translate these capabilities to **language-conditioned robotics**. Linking perception, whole-body control, and dexterous manipulation, humanoid/mobile platforms can execute LLM-generated plans with **closed-loop reliability**.
 
@@ -54,7 +54,7 @@ Lingyao Li, Dawei Li, **Zhenhui Ou**, Xiaoran Xu, Jingxiao Liu, Zihui Ma, Runlon
 - *2021.05* First Prize Scholarship of MIEC (Top 1% students in FZU).
 
 # 📖 Educations
-- *2024.09 - Present*, Arizona State University, Ph.D. in Artificial Intelligence & Robotics 
+- *2024.09 - Present*, Arizona State University, Ph.D. in Artificial Intelligence & Robotics.
 - *2020.09 - 2024.06*, Maynooth University, BS in Robotics and Intelligent Devices (**First-Class Honours**).
 - *2020.09 - 2024.06*, Fuzhou University, BE in Automation.
 
