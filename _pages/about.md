@@ -64,7 +64,7 @@ Lingyao Li, Dawei Li, **Zhenhui Ou**, Xiaoran Xu, Jingxiao Liu, Zihui Ma, Runlon
   - Worked on LLM-enhanced construction safety analytics by building a large-scale incidents–inspections–violations dataset, developing hybrid ML+LLM risk modeling with interpretable explanations, designing an LLM-as-a-Judge evaluation pipeline, and proposing an evidence-driven multi-agent framework for grounded safety reasoning and uncertainty-aware auditing. 
 - Fuzhou University, *2022.07 - 2024.05*.
   - Research Intern.
-  - Worked with Prof. [Wenxi Liu](https://wenxiliu.github.io/) and Prof. [Yutao Chen](https://dqxy.fzu.edu.cn/dqgcxyxin/info/1041/4136.htm) on safe reinforcement-learning-based autonomous robot navigation in dynamic, unknown environments, and on Simulink/Adams virtual prototyping for CPG-driven quadruped gait and motion control.
+  - Worked with [Prof. Wenxi Liu](https://wenxiliu.github.io/) and [Prof. Yutao Chen](https://dqxy.fzu.edu.cn/dqgcxyxin/info/1041/4136.htm) on safe reinforcement-learning-based autonomous robot navigation in dynamic, unknown environments, and on Simulink/Adams virtual prototyping for CPG-driven quadruped gait and motion control.
 
 # 💬 Service
 - Serve as a reviewer for CVPR 2024, CIKM 2025 and CRC 2026.
