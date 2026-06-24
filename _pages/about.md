@@ -19,7 +19,7 @@ redirect_from:
 
 <h2><b>Welcome to Zhenhui’s Homepage!</b></h2>
 
-I am Zhenhui Ou, a CS PhD student advised by [Prof. Yingzhen Yang](https://yingzhenyang.com) at [Statistical Deep Learning (SDL) Lab](http://yingzhenyang.com/Lab/). Previously, I completed a dual-degree program between [Fuzhou University (FZU)](https://www.fzu.edu.cn/) and [Maynooth University (MU)](https://www.maynoothuniversity.ie/), earning Bachelor’s degrees in **Automation** and **Robotics and Intelligent Devices**. I am very fortunately advised by and maintain closely connected with [Prof. Huan Liu](https://search.asu.edu/profile/255975), [Prof. Wenxi Liu](https://wenxiliu.github.io/), [Dawei Li](https://david-li0406.github.io/) and [Zhen Tan](https://zhen-tan-dmml.github.io/).
+I am Zhenhui Ou, a CS PhD student advised by [Prof. Yingzhen Yang](https://yingzhenyang.com) at [Statistical Deep Learning (SDL) Lab](http://yingzhenyang.com/Lab/). Previously, I completed a dual-degree program between [Fuzhou University (FZU)](https://www.fzu.edu.cn/) and [Maynooth University (MU)](https://www.maynoothuniversity.ie/), earning Bachelor’s degrees in **Automation** and **Robotics and Intelligent Devices**. I am very fortunately advised by and maintain closely connected with [Prof. Huan Liu](https://search.asu.edu/profile/255975), [Prof. Zhen Tan](https://zhen-tan-dmml.github.io/), [Prof. Wenxi Liu](https://wenxiliu.github.io/) and [Dawei Li](https://david-li0406.github.io/).
 
 My work centers on **large-scale, domain-adapted LLMs** and **multimodal, tool-augmented agents** that ground reasoning in perception, simulation, and structured knowledge to deliver **reliable, verifiable decision support** for safety-critical, unstructured environments.
 
@@ -46,6 +46,7 @@ Lingyao Li, Dawei Li, **Zhenhui Ou**, Xiaoran Xu, Jingxiao Liu, Zihui Ma, Runlon
 </div>
 
 # 🎖 Honors and Awards
+- *2026.06* ASU University Graduate Fellowship.
 - *2026.01* ASU University Graduate Fellowship.
 - *2025.11* ASU Graduate College Travel Award.
 - *2024.09* ASU Fulton Fellowship. ASU Ira A. Fulton Schools of Engineering PhD Fellowships.
