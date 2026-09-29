@@ -19,7 +19,7 @@ redirect_from:
 
 <h2><b>Welcome to Zhenhui’s Homepage!</b></h2>
 
-I am Zhenhui Ou, a CS PhD student advised by [Prof. Yingzhen Yang](https://yingzhenyang.com) at [Statistical Deep Learning (SDL) Lab](http://yingzhenyang.com/Lab/). Previously, I completed a dual-degree program between [Fuzhou University (FZU)](https://www.fzu.edu.cn/) and [Maynooth University (MU)](https://www.maynoothuniversity.ie/), earning Bachelor’s degrees in **Automation** and **Robotics and Intelligent Devices**. I am very fortunately advised by and maintain closely connected with [Prof. Huan Liu](https://search.asu.edu/profile/255975), [Prof. Zhen Tan](https://zhen-tan-dmml.github.io/), [Prof. Wenxi Liu](https://wenxiliu.github.io/) and [Dawei Li](https://david-li0406.github.io/).
+I am Zhenhui Ou, a CS PhD student at [Arizona State University](https://www.asu.edu). Previously, I completed a dual-degree program between [Fuzhou University (FZU)](https://www.fzu.edu.cn/) and [Maynooth University (MU)](https://www.maynoothuniversity.ie/), earning Bachelor’s degrees in **Automation** and **Robotics and Intelligent Devices**. I am very fortunately advised by and maintain closely connected with [Prof. Huan Liu](https://search.asu.edu/profile/255975), [Prof. Zhen Tan](https://zhen-tan-dmml.github.io/), [Prof. Wenxi Liu](https://wenxiliu.github.io/) and [Dawei Li](https://david-li0406.github.io/).
 
 My work centers on **large-scale, domain-adapted LLMs** and **multimodal, tool-augmented agents** that ground reasoning in perception, simulation, and structured knowledge to deliver **reliable, verifiable decision support** for safety-critical, unstructured environments.
 
