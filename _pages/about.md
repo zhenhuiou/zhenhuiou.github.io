@@ -68,7 +68,8 @@ Lingyao Li, Dawei Li, **Zhenhui Ou**, Xiaoran Xu, Jingxiao Liu, Zihui Ma, Runlon
   - Worked with [Prof. Wenxi Liu](https://wenxiliu.github.io/) and [Prof. Yutao Chen](https://dqxy.fzu.edu.cn/dqgcxyxin/info/1041/4136.htm) on safe reinforcement-learning-based autonomous robot navigation in dynamic, unknown environments, and on Simulink/Adams virtual prototyping for CPG-driven quadruped gait and motion control.
 
 # 💬 Service
-- Serve as a reviewer for CVPR 2024, CIKM 2025 and CRC 2026.
+- Serve as a reviewer for CVPR 2024, CIKM 2025, CRC 2026, NeurIPS 2026 Workshop VERICODEGEN.
+- Teaching Assistant: ASU CSE598 Statistical Learning Theory, Fall 2026.
 - Teaching Assistant: FZU & MU CS427 Autonomous Mobile Robotics, Fall 2023.
 - Teaching Assistant: FZU & MU EE311 Control System Design, Spring 2023.
 - Teaching Assistant: FZU & MU EE204 Analog Electronics, Fall 2022.
